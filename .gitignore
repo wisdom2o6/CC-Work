@@ -1,0 +1,16 @@
+# MinGW / Compiler toolchain (700MB+)
+w64devkit/
+
+# Temporary / intermediate build files
+*.o
+*.obj
+*.log
+
+# User local saves
+highscore.txt
+
+# IDE files
+.vscode/
+.idea/
+.vs/
+.gemini/
